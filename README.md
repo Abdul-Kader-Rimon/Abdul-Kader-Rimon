@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?Abdul-Kader-Rimon&color=red)
+ ![Profile views](https://komarev.com/ghpvc/?username=Abdul-Kader-Rimon&color=red)
 
 Skills: Tailwind css/BOOTSTRAP / REACT / JS / HTML / CSS
 
