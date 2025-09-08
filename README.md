@@ -11,7 +11,6 @@ Skills: Tailwind css/BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Frontend web development
 
