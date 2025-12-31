@@ -61,7 +61,7 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/abdulkader-rimon](https://www.linkedin.com/in/abdul-kader-rimon-722a7232b/)">
+<a href="https://www.linkedin.com/in/abdul-kader-rimon-722a7232b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
