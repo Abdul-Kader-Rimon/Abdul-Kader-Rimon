@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Abdul%20Kader%20Rimon&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Abdul%20Kader%20Rimon&fontSize=44&fontColor=ffffff&fontAlignY=38" />
 
-<h1>👋 Hi, I'm Abdul Kader Rimon</h1>
-<h3>💻 Frontend Web Developer</h3>
+<h1 style="color:#6a11cb;">👋 Hi, I'm Abdul Kader Rimon</h1>
+<h3 style="color:#2575fc;">💻 Frontend Web Developer</h3>
 
 <p>
-📍 Bangladesh &nbsp; | &nbsp;
-📧 <b>rimon.dev@gmail.com</b> &nbsp; | &nbsp;
-📞 <b>+8801XXXXXXXXX</b>
+📍 Chittagong, Bangladesh &nbsp; | &nbsp;
+📧 <b>abdulkaderrimon8@gmail.com</b> &nbsp; | &nbsp;
+📞 <b>+8801642728613</b>
 </p>
 
 </div>
@@ -42,17 +42,17 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 ### 🎨 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
 </div>
 
 ### ⚙️ Backend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" />
 </div>
 
 ### 🧰 Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 </div>
 
 ---
@@ -64,7 +64,7 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 <a href="https://linkedin.com/in/abdulkader-rimon">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/Abdul-Kader-Rimon">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -73,10 +73,13 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 ---
 
+## 📊 GitHub Streak
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -94,4 +97,3 @@ Explore my pinned repositories to see my best frontend projects, including real-
 ⭐ Feel free to explore my repositories and connect with me.
 
 </div>
-
