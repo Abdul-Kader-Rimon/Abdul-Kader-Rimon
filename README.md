@@ -68,15 +68,13 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 
  
 <a href="https://www.facebook.com/abdul.kader.rimon.2025" target="_blank">
-  <img width="40" src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" />
+  <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
 
- 
 <a href="https://x.com/your_username" target="_blank">
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/X_%28formerly_Twitter%29_logo_late_2025.svg" alt="X logo 2025" />
+  <img width="40" src="https://hexmos.com/freedevtools/svg_icons/brand/brand-x.svg" alt="X logo" />
 </a>
-
 
 
 </div>
