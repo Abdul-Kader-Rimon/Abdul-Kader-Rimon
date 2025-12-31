@@ -76,10 +76,6 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 ## 📊 GitHub Stats
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Kader-Rimon&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Kader-Rimon&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight)
 
 ---
