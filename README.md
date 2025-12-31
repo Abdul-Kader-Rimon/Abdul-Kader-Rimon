@@ -77,7 +77,7 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
 
 </div>
 
