@@ -61,12 +61,12 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdulkader-rimon">
+<a href="[https://linkedin.com/in/abdulkader-rimon](https://www.linkedin.com/in/abdul-kader-rimon-722a7232b/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Abdul-Kader-Rimon">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
 </div>
