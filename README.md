@@ -1,74 +1,108 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Abdul%20Kader%20Rimon&fontSize=40&fontColor=ffffff)
+<div align="center">
 
-## 👋 Hi, I'm Abdul Kader Rimon  
-### 💻 Frontend Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Abdul%20Kader%20Rimon&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
-📍 Location: Bangladesh  
-📧 Email: rimon.dev@gmail.com  
-📞 Phone: +8801XXXXXXXXX  
+<h1>👋 Hi, I'm Abdul Kader Rimon</h1>
+<h3>💻 Frontend Web Developer</h3>
+
+<p>
+📍 Bangladesh &nbsp; | &nbsp;
+📧 <b>rimon.dev@gmail.com</b> &nbsp; | &nbsp;
+📞 <b>+8801XXXXXXXXX</b>
+</p>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a passionate Frontend Web Developer from Bangladesh.  
-I enjoy building clean, responsive, and user-friendly web applications.  
-Currently, I am learning modern JavaScript frameworks and improving my development skills.  
-I love turning ideas into real-world projects through code.
+<p align="center">
+I am a passionate Frontend Web Developer from Bangladesh with a strong interest in building clean, responsive, and user-friendly web applications. <br/>
+I enjoy transforming ideas into real-world digital experiences using modern web technologies. <br/>
+Currently, I am focused on improving my JavaScript ecosystem knowledge and building practical projects.
+</p>
 
 ---
 
 ## 🚀 Current Activities
 
-- 🌱 I’m currently exploring **Next.js**
-- 🏗️ Working on a **Tourism Website**
-- 📚 Strengthening my **JavaScript & React** fundamentals
-- 🛠️ Practicing real-world frontend projects
+<div align="center">
+
+🔹 Exploring <b>Next.js</b> <br/>
+🔹 Working on a <b>Tourism Website</b> <br/>
+🔹 Enhancing skills in <b>JavaScript & React</b> <br/>
+🔹 Practicing real-world frontend development  
+
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
 ### 🎨 Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</div>
 
 ### ⚙️ Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</div>
 
 ### 🧰 Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/abdulkader-rimon  
-- 🧑‍💻 GitHub: https://github.com/Abdul-Kader-Rimon  
+<div align="center">
+
+<a href="https://linkedin.com/in/abdulkader-rimon">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Abdul-Kader-Rimon">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Kader-Rimon&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Kader-Rimon&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Kader-Rimon&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight)
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Kader-Rimon&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-👉 Check out my pinned repositories to see my best frontend projects, including real-world applications, course assignments, and practice projects.
+<div align="center">
+Explore my pinned repositories to see my best frontend projects, including real-world applications, course assignments, and hands-on practice projects.
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+<div align="center">
+
+✨ <i>Thank you for visiting my GitHub profile!</i> <br/>
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
+
