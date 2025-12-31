@@ -65,10 +65,7 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Abdul-Kader-Rimon">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
