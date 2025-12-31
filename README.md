@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Abdul%20Kader%20Rimon&fontSize=44&fontColor=ffffff&fontAlignY=38" />
 
 <h1 style="color:#6a11cb;">👋 Hi, I'm Abdul Kader Rimon</h1>
-<h3 style="color:#2575fc;">💻 Frontend Web Developer</h3>
+<h3 style="color:#2575fc;">💻 Full Stack Web Developer</h3>
 
 <p>
 📍 Chittagong, Bangladesh &nbsp; | &nbsp;
@@ -18,9 +18,9 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-I am a passionate Frontend Web Developer from Bangladesh with a strong interest in building clean, responsive, and user-friendly web applications. <br/>
-I enjoy transforming ideas into real-world digital experiences using modern web technologies. <br/>
-Currently, I am focused on improving my JavaScript ecosystem knowledge and building practical projects.
+I am a passionate Full Stack Web Developer from Bangladesh with a strong interest in building clean, responsive, and user-friendly web applications. <br/>
+I enjoy transforming ideas into real-world digital experiences using modern frontend and backend technologies. <br/>
+Currently, I am focused on strengthening my JavaScript ecosystem knowledge and building practical full-stack projects.
 </p>
 
 ---
@@ -31,8 +31,8 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 🔹 Exploring <b>Next.js</b> <br/>
 🔹 Working on a <b>Tourism Website</b> <br/>
-🔹 Enhancing skills in <b>JavaScript & React</b> <br/>
-🔹 Practicing real-world frontend development  
+🔹 Enhancing skills in <b>JavaScript, React & Node.js</b> <br/>
+🔹 Practicing real-world full-stack development  
 
 </div>
 
@@ -42,7 +42,7 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 ### 🎨 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,tailwind&theme=light" />
 </div>
 
 ### ⚙️ Backend
@@ -66,6 +66,10 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Abdul-Kader-Rimon">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
@@ -77,7 +81,7 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -86,7 +90,7 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 ## 📌 Featured Projects
 
 <div align="center">
-Explore my pinned repositories to see my best frontend projects, including real-world applications, course assignments, and hands-on practice projects.
+Explore my pinned repositories to see my best full-stack and frontend projects, including real-world applications, course assignments, and hands-on practice projects.
 </div>
 
 ---
