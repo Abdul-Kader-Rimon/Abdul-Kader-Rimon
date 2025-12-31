@@ -73,21 +73,14 @@ Currently, I am focused on improving my JavaScript ecosystem knowledge and build
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Kader-Rimon&show_icons=true&theme=tokyonight&hide_border=true" />
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Kader-Rimon&show_icons=true&theme=tokyonight)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Kader-Rimon&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Kader-Rimon&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight)
 
 ---
 
