@@ -66,9 +66,17 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 </a>
 &nbsp;&nbsp;
 
-<a href="https://twitter.com/your_username" target="_blank">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X logo" />
+ 
+<a href="https://www.facebook.com/abdul.kader.rimon.2025" target="_blank">
+  <img width="40" src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" />
 </a>
+&nbsp;&nbsp;
+
+ 
+<a href="https://x.com/your_username" target="_blank">
+  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/X_%28formerly_Twitter%29_logo_late_2025.svg" alt="X logo 2025" />
+</a>
+
 
 
 </div>
