@@ -67,7 +67,7 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 &nbsp;&nbsp;
 
 <a href="https://www.facebook.com/abdul.kader.rimon.2025">
-  <img src="https://skillicons.dev/icons?i=facebook&permanent=true&color=4267B2" />
+  <img src="https://skillicons.dev/icons?i=facebook&color=4267B2" />
 </a>
 
 </div>
