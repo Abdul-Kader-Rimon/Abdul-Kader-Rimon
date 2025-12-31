@@ -81,7 +81,7 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
 
 </div>
 
