@@ -66,8 +66,8 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 </a>
 &nbsp;&nbsp;
 
-<a href="https://twitter.com/your_username">
-  <img src="https://skillicons.dev/icons?i=x&theme=dark" />
+<a href="https://twitter.com/your_username" target="_blank">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X logo" />
 </a>
 
 
