@@ -6,7 +6,7 @@
 <h3 style="color:#2575fc;">💻 Full Stack Web Developer</h3>
 
 <p>
-📍 Chittagong, Bangladesh &nbsp; | &nbsp;
+📍 Chattogram, Bangladesh &nbsp; | &nbsp;
 📧 <b>abdulkaderrimon8@gmail.com</b> &nbsp; | &nbsp;
 📞 <b>+8801642728613</b>
 </p>
