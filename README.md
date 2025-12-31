@@ -66,8 +66,8 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.facebook.com/abdul.kader.rimon.2025">
-  <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
+<a href="https://twitter.com/your_username">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
 </a>
 
 </div>
