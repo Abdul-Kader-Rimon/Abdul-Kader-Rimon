@@ -84,9 +84,7 @@ Currently, I am focused on strengthening my JavaScript ecosystem knowledge and b
 ## 📊 GitHub Streak
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
-
+  <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Abdul-Kader-Rimon&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
